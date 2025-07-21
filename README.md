@@ -1,5 +1,5 @@
 
-# MLdeployment
+# ML-deployment
 
 A collection of machine learning deployment examples using FastAPI, Prometheus metrics, and Docker.
 
@@ -32,7 +32,7 @@ my_ml_app/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/kyramichel/MLdeployment.git
+   git clone https://github.com/kyramichel/ML-deployment.git
    cd MLdeployment/my_ml_app
    ```
 
