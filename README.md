@@ -32,7 +32,7 @@ my_ml_app/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<your-username>/MLdeployment.git
+   git clone https://github.com/kyramichel/MLdeployment.git
    cd MLdeployment/my_ml_app
    ```
 
